@@ -16,4 +16,4 @@ https://github.com/cferdinandi/smooth-scroll/blob/master/LICENSE.md
 
 ## Final project Result 
 You can watch my Website here:<br/>
-https://yarden-ba55a.firebaseapp.com/#contact
+https://yarden-ba55a.firebaseapp.com/
