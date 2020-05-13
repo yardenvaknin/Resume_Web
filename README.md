@@ -1,7 +1,7 @@
 # Resume_Website_Project
 
 ## Main Goal:
-The main goal of my project was to create a Personal Website to present myself, my skilles, my Linkedin profile and Resume.
+The main goal of my project was to create a Personal Website to present myself, my skills, my Linkedin profile and Resume.
 
 ## Main Tools/Features:
 **1. Firebase.**<br/>
